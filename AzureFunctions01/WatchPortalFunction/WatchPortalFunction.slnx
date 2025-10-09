@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WatchFunctionsTests/WatchFunctionsTests.csproj" Id="1471e016-d872-4d2a-97fe-074b316edfad" />
+  <Project Path="WatchPortalFunction/WatchPortalFunction.csproj" />
+</Solution>
