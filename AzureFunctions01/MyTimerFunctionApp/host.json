@@ -1,0 +1,12 @@
+{
+  "version": "2.0",
+  "logging": {
+    "logLevel": {
+      "Function": "Information",
+      "Host.Results": "Information",
+      "Host.Aggregator": "Information",
+      "Host.General": "Information"
+    }
+  },
+  "functionTimeout": "00:10:00"
+}
