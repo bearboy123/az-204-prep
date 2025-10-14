@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="QueueReceiver/QueueReceiver.csproj" />
+  <Project Path="QueueSender/QueueSender.csproj" />
+</Solution>

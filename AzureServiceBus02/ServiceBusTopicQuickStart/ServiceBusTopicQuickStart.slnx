@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SubscriptionReceiver/SubscriptionReceiver.csproj" />
+  <Project Path="TopicSender/TopicSender.csproj" />
+</Solution>

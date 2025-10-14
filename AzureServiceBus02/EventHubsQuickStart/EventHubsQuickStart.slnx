@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EventHubsReceiver/EventHubsReceiver.csproj" />
+  <Project Path="EventHubsSender/EventHubsSender.csproj" />
+</Solution>
