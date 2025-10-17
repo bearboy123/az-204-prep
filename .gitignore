@@ -1,57 +1,30 @@
-bin
-obj
-csx
-.vs
-edge
-Publish
-
-*.user
+## Ignore Visual Studio temporary files, build results, and generated files
 *.suo
-*.cscfg
-*.Cache
-project.lock.json
-
-/packages
-/TestResults
-
-/tools/NuGet.exe
-/App_Data
-/secrets
-/data
-.secrets
-appsettings.json
-local.settings.json
-
-node_modules
-dist
-
-# Local python packages
-.python_packages/
-
-# Python Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Azurite artifacts
-__blobstorage__
-__queuestorage__
-__azurite_db*__.json
-
-# Common build/output folders
+*.user
+*.sln.docstates
+*.userprefs
+bin/
+obj/
 Debug/
 Release/
+**/bin
+**/obj
+**/Debug
+**/Release
+*.vs
+.vs/
+
+## Ignore Node.js dependency folders
+node_modules/
+
+# Ignore Python virtual environment and cache
+.venv/
+__pycache__/
+
+# Ignore other generated files
+dist/
 publish/
-Publish/
-build/
-coverage/
-*.log
+
+# Ignore Azurite and blob storage files
+__azurite*__
+__blobstorage__/
