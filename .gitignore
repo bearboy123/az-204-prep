@@ -34,4 +34,4 @@ __blobstorage__/
 local.settings.json
 
 # Ignore embedded git repositories
-/AzureStorage03/mslearn-store-data-in-azure/
+
