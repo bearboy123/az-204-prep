@@ -1,3 +1,4 @@
+
 ## Ignore Visual Studio temporary files, build results, and generated files
 *.suo
 *.user
@@ -28,3 +29,9 @@ publish/
 # Ignore Azurite and blob storage files
 __azurite*__
 __blobstorage__/
+
+# Ignore local settings files
+local.settings.json
+
+# Ignore embedded git repositories
+/AzureStorage03/mslearn-store-data-in-azure/
